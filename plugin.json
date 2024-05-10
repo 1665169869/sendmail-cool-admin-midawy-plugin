@@ -1,0 +1,16 @@
+{
+    "name": "发送邮件信息",
+    "key": "sendMail",
+    "hook": "",
+    "singleton": false,
+    "version": "1.0.0",
+    "description": "用于发送邮件信息",
+    "author": "i白羽",
+    "logo": "assets/logo.png",
+    "readme": "README.md",
+    "config": {
+        "appId": "@baseDir/1.md",
+        "appSecret": "xxxxx",
+        "filePath": "@baseDir/xxxxx"
+    }
+}

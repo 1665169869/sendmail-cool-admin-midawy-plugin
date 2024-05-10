@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES2018",
+    "module": "CommonJS",
+    "esModuleInterop": true,
+    "moduleResolution": "Node",
+    "noImplicitAny": false,
+    "skipLibCheck": true,
+    "declaration": true,
+    "resolveJsonModule":true,
+    "pretty": true,
+    "outDir": "./dist"
+  },
+  "include": ["core", "src", "test"]
+}
